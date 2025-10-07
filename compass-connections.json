@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "3025cca9-bc5f-415e-a50a-f39247110762",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1759808954912"
+        }
+      },
+      "favorite": {
+        "name": "Final_BD_Andres_Quintero_Sistema_Informatico",
+        "color": "color1"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

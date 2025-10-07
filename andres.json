@@ -1,0 +1,362 @@
+[
+  {
+    "codigo": "EST031",
+    "nombre": "Manuel Antonio Gil Martínez",
+    "email": "manuel.gil@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-09-15T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3501"
+      },
+      "nombre": "Ingeniería de Software",
+      "codigo": "ISOFT"
+    },
+    "semestre_actual": 7,
+    "promedio_acumulado": 4.0,
+    "creditos_cursados": 115,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3502"
+        },
+        "codigo": "PROY401",
+        "nombre": "Gestión de Proyectos de Software",
+        "periodo": "2024-1",
+        "nota_final": 4.2,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 313 010 1010",
+      "direccion": "Calle 75 #5-90, Bogotá",
+      "ciudad": "Bogotá"
+    }
+  },
+  {
+    "codigo": "EST032",
+    "nombre": "Sara Valentina Hoyos Duque",
+    "email": "sara.hoyos@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2004-01-28T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3503"
+      },
+      "nombre": "Psicología",
+      "codigo": "PSICO"
+    },
+    "semestre_actual": 5,
+    "promedio_acumulado": 4.4,
+    "creditos_cursados": 75,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3504"
+        },
+        "codigo": "PSIC305",
+        "nombre": "Psicopatología",
+        "periodo": "2024-1",
+        "nota_final": 4.6,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 300 202 2020",
+      "direccion": "Carrera 48 #15-30, Medellín",
+      "ciudad": "Medellín"
+    }
+  },
+  {
+    "codigo": "EST033",
+    "nombre": "Julián David Pérez Henao",
+    "email": "julian.perez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2002-07-03T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3505"
+      },
+      "nombre": "Derecho",
+      "codigo": "DEREC"
+    },
+    "semestre_actual": 9,
+    "promedio_acumulado": 3.6,
+    "creditos_cursados": 140,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3506"
+        },
+        "codigo": "PROC501",
+        "nombre": "Derecho Procesal Civil",
+        "periodo": "2023-2",
+        "nota_final": 3.4,
+        "creditos": 5
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 321 303 3030",
+      "direccion": "Calle 10 #5-12, Cali",
+      "ciudad": "Cali"
+    }
+  },
+  {
+    "codigo": "EST034",
+    "nombre": "Natalia Andrea Vargas Ochoa",
+    "email": "natalia.vargas@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2005-04-19T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3507"
+      },
+      "nombre": "Medicina",
+      "codigo": "MEDIC"
+    },
+    "semestre_actual": 3,
+    "promedio_acumulado": 4.7,
+    "creditos_cursados": 48,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3508"
+        },
+        "codigo": "HISTO201",
+        "nombre": "Histología",
+        "periodo": "2024-1",
+        "nota_final": 4.8,
+        "creditos": 5
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 310 404 4040",
+      "direccion": "Carrera 51 #72-10, Barranquilla",
+      "ciudad": "Barranquilla"
+    }
+  },
+  {
+    "codigo": "EST035",
+    "nombre": "Cristian Camilo Gómez Sierra",
+    "email": "cristian.gomez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2001-11-08T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3509"
+      },
+      "nombre": "Ingeniería Civil",
+      "codigo": "ICIVIL"
+    },
+    "semestre_actual": 8,
+    "promedio_acumulado": 3.5,
+    "creditos_cursados": 130,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b350a"
+        },
+        "codigo": "GEO405",
+        "nombre": "Geotecnia",
+        "periodo": "2024-1",
+        "nota_final": 3.6,
+        "creditos": 5
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 304 505 5050",
+      "direccion": "Avenida 33 #80-50, Pereira",
+      "ciudad": "Pereira"
+    }
+  },
+  {
+    "codigo": "EST036",
+    "nombre": "Laura Sofía Ríos Cano",
+    "email": "laura.rios@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-02-01T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b350b"
+      },
+      "nombre": "Administración de Empresas",
+      "codigo": "ADMEM"
+    },
+    "semestre_actual": 6,
+    "promedio_acumulado": 4.1,
+    "creditos_cursados": 95,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b350c"
+        },
+        "codigo": "TAL201",
+        "nombre": "Administración del Talento Humano",
+        "periodo": "2024-1",
+        "nota_final": 4.3,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 315 606 6060",
+      "direccion": "Calle 40 #18-20, Manizales",
+      "ciudad": "Manizales"
+    }
+  },
+  {
+    "codigo": "EST037",
+    "nombre": "Diego Alejandro Franco Mejía",
+    "email": "diego.franco@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2004-05-12T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b350d"
+      },
+      "nombre": "Ingeniería de Software",
+      "codigo": "ISOFT"
+    },
+    "semestre_actual": 4,
+    "promedio_acumulado": 3.8,
+    "creditos_cursados": 64,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b350e"
+        },
+        "codigo": "REDES210",
+        "nombre": "Redes y Comunicación de Datos",
+        "periodo": "2023-2",
+        "nota_final": 3.7,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 301 707 7070",
+      "direccion": "Carrera 20 #15-50, Bucaramanga",
+      "ciudad": "Bucaramanga"
+    }
+  },
+  {
+    "codigo": "EST038",
+    "nombre": "María Camila Pardo Herrera",
+    "email": "maria.pardo@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-08-30T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b350f"
+      },
+      "nombre": "Comunicación Social",
+      "codigo": "COMSOC"
+    },
+    "semestre_actual": 7,
+    "promedio_acumulado": 4.2,
+    "creditos_cursados": 110,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3510"
+        },
+        "codigo": "INVES401",
+        "nombre": "Investigación en Comunicación",
+        "periodo": "2024-1",
+        "nota_final": 4.5,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 312 808 8080",
+      "direccion": "Calle 63 #13-90, Bogotá",
+      "ciudad": "Bogotá"
+    }
+  },
+  {
+    "codigo": "EST039",
+    "nombre": "Sebastián Alzate Quintero",
+    "email": "sebastian.alzate@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2002-06-06T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3511"
+      },
+      "nombre": "Economía",
+      "codigo": "ECONO"
+    },
+    "semestre_actual": 8,
+    "promedio_acumulado": 3.7,
+    "creditos_cursados": 125,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3512"
+        },
+        "codigo": "FIIN401",
+        "nombre": "Finanzas Públicas",
+        "periodo": "2023-2",
+        "nota_final": 3.9,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 300 909 9090",
+      "direccion": "Carrera 80 #45-10, Cali",
+      "ciudad": "Cali"
+    }
+  },
+  {
+    "codigo": "EST040",
+    "nombre": "Sofía Andrea Vélez Restrepo",
+    "email": "sofia.velez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2005-03-22T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3513"
+      },
+      "nombre": "Arquitectura",
+      "codigo": "ARQUI"
+    },
+    "semestre_actual": 2,
+    "promedio_acumulado": 4.5,
+    "creditos_cursados": 35,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3514"
+        },
+        "codigo": "DIB101",
+        "nombre": "Dibujo Arquitectónico",
+        "periodo": "2024-1",
+        "nota_final": 4.7,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 314 000 1111",
+      "direccion": "Calle 9 #15-50, Cartagena",
+      "ciudad": "Cartagena"
+    }
+  }
+]

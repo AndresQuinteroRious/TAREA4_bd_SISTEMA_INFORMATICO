@@ -1,0 +1,362 @@
+[
+  {
+    "codigo": "EST041",
+    "nombre": "Daniela Fernanda Roa Castro",
+    "email": "daniela.roa@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-01-05T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3515"
+      },
+      "nombre": "Contaduría Pública",
+      "codigo": "CONTAD"
+    },
+    "semestre_actual": 7,
+    "promedio_acumulado": 4.2,
+    "creditos_cursados": 110,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3516"
+        },
+        "codigo": "TRIB401",
+        "nombre": "Régimen Tributario",
+        "periodo": "2024-1",
+        "nota_final": 4.4,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 310 321 4567",
+      "direccion": "Calle 10 #25-30, Tunja",
+      "ciudad": "Tunja"
+    }
+  },
+  {
+    "codigo": "EST042",
+    "nombre": "Jorge Andrés Ospina Ruiz",
+    "email": "jorge.ospina@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2004-11-20T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3517"
+      },
+      "nombre": "Ingeniería Mecánica",
+      "codigo": "IMEC"
+    },
+    "semestre_actual": 3,
+    "promedio_acumulado": 3.6,
+    "creditos_cursados": 45,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3518"
+        },
+        "codigo": "CALC201",
+        "nombre": "Cálculo Multivariable",
+        "periodo": "2024-1",
+        "nota_final": 3.4,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 320 654 3210",
+      "direccion": "Carrera 5 #8-15, Popayán",
+      "ciudad": "Popayán"
+    }
+  },
+  {
+    "codigo": "EST043",
+    "nombre": "Mariana Isabel Pérez Sierra",
+    "email": "mariana.perez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2005-07-14T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3519"
+      },
+      "nombre": "Medicina",
+      "codigo": "MEDIC"
+    },
+    "semestre_actual": 1,
+    "promedio_acumulado": 4.9,
+    "creditos_cursados": 16,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b351a"
+        },
+        "codigo": "QUIM101",
+        "nombre": "Química General",
+        "periodo": "2024-1",
+        "nota_final": 5.0,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 301 987 6543",
+      "direccion": "Avenida El Dorado #68C-50, Bogotá",
+      "ciudad": "Bogotá"
+    }
+  },
+  {
+    "codigo": "EST044",
+    "nombre": "Alejandro Valencia Duque",
+    "email": "alejandro.valencia@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2002-02-28T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b351b"
+      },
+      "nombre": "Arquitectura",
+      "codigo": "ARQUI"
+    },
+    "semestre_actual": 8,
+    "promedio_acumulado": 3.9,
+    "creditos_cursados": 128,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b351c"
+        },
+        "codigo": "CONS501",
+        "nombre": "Construcción Avanzada",
+        "periodo": "2023-2",
+        "nota_final": 3.8,
+        "creditos": 5
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 318 456 7890",
+      "direccion": "Carrera 43A #1 Sur-50, Medellín",
+      "ciudad": "Medellín"
+    }
+  },
+  {
+    "codigo": "EST045",
+    "nombre": "Valentina Suárez Gómez",
+    "email": "valentina.suarez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-08-10T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b351d"
+      },
+      "nombre": "Comunicación Social",
+      "codigo": "COMSOC"
+    },
+    "semestre_actual": 5,
+    "promedio_acumulado": 4.1,
+    "creditos_cursados": 78,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b351e"
+        },
+        "codigo": "FOTO301",
+        "nombre": "Fotografía Periodística",
+        "periodo": "2024-1",
+        "nota_final": 4.2,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 311 789 0123",
+      "direccion": "Calle 84 #50-10, Barranquilla",
+      "ciudad": "Barranquilla"
+    }
+  },
+  {
+    "codigo": "EST046",
+    "nombre": "Felipe Santiago Castro Londoño",
+    "email": "felipe.castro@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2001-05-18T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b351f"
+      },
+      "nombre": "Ingeniería Civil",
+      "codigo": "ICIVIL"
+    },
+    "semestre_actual": 9,
+    "promedio_acumulado": 3.4,
+    "creditos_cursados": 145,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3520"
+        },
+        "codigo": "VIA501",
+        "nombre": "Ingeniería de Vías",
+        "periodo": "2023-2",
+        "nota_final": 3.2,
+        "creditos": 5
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 300 234 5678",
+      "direccion": "Carrera 66 #10-45, Cali",
+      "ciudad": "Cali"
+    }
+  },
+  {
+    "codigo": "EST047",
+    "nombre": "Carolina Echeverry Patiño",
+    "email": "carolina.echeverry@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2004-09-02T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3521"
+      },
+      "nombre": "Psicología",
+      "codigo": "PSICO"
+    },
+    "semestre_actual": 4,
+    "promedio_acumulado": 4.5,
+    "creditos_cursados": 60,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3522"
+        },
+        "codigo": "PSIC205",
+        "nombre": "Neuropsicología",
+        "periodo": "2024-1",
+        "nota_final": 4.6,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 319 567 8901",
+      "direccion": "Calle 45 #30-50, Neiva",
+      "ciudad": "Neiva"
+    }
+  },
+  {
+    "codigo": "EST048",
+    "nombre": "Juan Sebastián Torres Rincón",
+    "email": "juan.torres@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-03-22T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3523"
+      },
+      "nombre": "Economía",
+      "codigo": "ECONO"
+    },
+    "semestre_actual": 6,
+    "promedio_acumulado": 4.0,
+    "creditos_cursados": 96,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3524"
+        },
+        "codigo": "ESTA301",
+        "nombre": "Estadística II",
+        "periodo": "2023-2",
+        "nota_final": 3.9,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 304 890 1234",
+      "direccion": "Carrera 7 #12-50, Pasto",
+      "ciudad": "Pasto"
+    }
+  },
+  {
+    "codigo": "EST049",
+    "nombre": "Laura Ximena Bedoya Giraldo",
+    "email": "laura.bedoya@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2004-12-01T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3525"
+      },
+      "nombre": "Administración de Empresas",
+      "codigo": "ADMEM"
+    },
+    "semestre_actual": 2,
+    "promedio_acumulado": 4.3,
+    "creditos_cursados": 32,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3526"
+        },
+        "codigo": "CONT101",
+        "nombre": "Introducción a la Contabilidad",
+        "periodo": "2024-1",
+        "nota_final": 4.5,
+        "creditos": 3
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 320 012 3456",
+      "direccion": "Calle 50 #40-25, Armenia",
+      "ciudad": "Armenia"
+    }
+  },
+  {
+    "codigo": "EST050",
+    "nombre": "Carlos Felipe Ramírez Mesa",
+    "email": "carlos.ramirez@universidad.edu.co",
+    "fecha_nacimiento": {
+      "$date": "2003-06-16T00:00:00.000Z"
+    },
+    "programa": {
+      "id": {
+        "$oid": "651f67848f21e5c2d38b3527"
+      },
+      "nombre": "Ingeniería de Software",
+      "codigo": "ISOFT"
+    },
+    "semestre_actual": 5,
+    "promedio_acumulado": 3.9,
+    "creditos_cursados": 80,
+    "estado": "Activo",
+    "materias_cursadas": [
+      {
+        "materia_id": {
+          "$oid": "651f67848f21e5c2d38b3528"
+        },
+        "codigo": "WEB301",
+        "nombre": "Desarrollo Web Frontend",
+        "periodo": "2024-1",
+        "nota_final": 4.1,
+        "creditos": 4
+      }
+    ],
+    "contacto": {
+      "telefono": "+57 313 789 0123",
+      "direccion": "Carrera 15 #10-30, Cúcuta",
+      "ciudad": "Cúcuta"
+    }
+  }
+]
